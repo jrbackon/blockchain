@@ -5,6 +5,7 @@
 **_BabsonCoin (BabC)_** 
 
 **Transactions**:
+
 t1 = "Kali sends 2 BabC to Jacob"
 
 t2 = "Evie sends 4.1 BabC to Jacob"
@@ -20,7 +21,7 @@ t6 = "Kali sends 5.4 BabC to Kristen"
 
 **->** = a hash function typically SHA256
 
-**B1** = Block 1
+**Bn** = Block n, where n is the nth block in the chain
 
 **"AAA"** = the initial string, typically a random or semi-random number
 
